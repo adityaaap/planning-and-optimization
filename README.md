@@ -17,3 +17,6 @@ This will create a outputs.csv file, run this file in MATLAB for visulatization
 # Results
 
 Plot of Trajectory
+
+![image](./result_planner.png)
+
